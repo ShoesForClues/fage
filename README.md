@@ -6,7 +6,7 @@ FAGE is a 3D game engine that is built on top of the Love2D framework. It is wri
 # Examples
 **Physically Based Rendering**
 
-[![PBR Demo](https://img.youtube.com/vi/v-tqOWZUSbA/0.jpg)](https://www.youtube.com/watch?v=v-tqOWZUSbA)
+[![PBR Demo](https://i.ytimg.com/vi/y_s_hwqhlF8/hqdefault.jpg)](https://www.youtube.com/watch?v=y_s_hwqhlF8)
 
 **Skeletal Animation**
 
